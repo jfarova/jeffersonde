@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Downloads\jeffersonde\bin\Debug\net6.0\jeffersonde.exe
+C:\Users\USUARIO\Downloads\jeffersonde\bin\Debug\net6.0\jeffersonde.deps.json
+C:\Users\USUARIO\Downloads\jeffersonde\bin\Debug\net6.0\jeffersonde.runtimeconfig.json
+C:\Users\USUARIO\Downloads\jeffersonde\bin\Debug\net6.0\jeffersonde.dll
+C:\Users\USUARIO\Downloads\jeffersonde\bin\Debug\net6.0\jeffersonde.pdb
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.dll
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\refint\jeffersonde.dll
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.pdb
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\jeffersonde.genruntimeconfig.cache
+C:\Users\USUARIO\Downloads\jeffersonde\obj\Debug\net6.0\ref\jeffersonde.dll
